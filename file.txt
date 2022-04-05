@@ -1,1 +1,1 @@
-Helloo This is git demo class!!
+Hello This is git demo class!!
